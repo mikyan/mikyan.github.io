@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mikyan.github.io</id>
     <title>MIKYAN的博客</title>
-    <updated>2020-12-14T10:40:59.703Z</updated>
+    <updated>2020-12-14T10:50:42.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mikyan.github.io"/>
     <link rel="self" href="https://mikyan.github.io/atom.xml"/>
@@ -10,6 +10,23 @@
     <logo>https://mikyan.github.io/images/avatar.png</logo>
     <icon>https://mikyan.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, MIKYAN的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[git仓库迁移后不显示部分contributor解决办法]]></title>
+        <id>https://mikyan.github.io/post/git-cang-ku-qian-yi-hou-bu-xian-shi-bu-fen-contributor-jie-jue-ban-fa/</id>
+        <link href="https://mikyan.github.io/post/git-cang-ku-qian-yi-hou-bu-xian-shi-bu-fen-contributor-jie-jue-ban-fa/">
+        </link>
+        <updated>2020-12-14T10:47:00.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="问题的产生">问题的产生</h2>
+<p>学校的小学期项目托管在自建的gitlab上，小学期结束想把仓库迁移到github，按照这篇文章</p>
+<p>https://blog.csdn.net/samxx8/article/details/72329002</p>
+<p>进行了迁移，但是迁移后，contributors里面居然没我，网上查了一下，没有查到解决方案。</p>
+<h2 id="解决办法">解决办法</h2>
+<p>检查之后发现其实提交记录里是有我的，但是github没有将我的提交记录映射到我的github账号。</p>
+<p>想到我之前修改了github用的邮箱，并把老邮箱账号删除了，然后注意到我的的ssh-key是用之前的qq邮箱账号生成的，里面包含我邮箱的字段，猜想github是不是靠这个来识别用户的，于是在github里把原来的邮箱添加回去，再重新执行迁移过程，果然解决了问题。</p>
+<p>不知道具体原因是不是和我猜想的一样，可能需要多了解git的原理才能弄清，以后如果更深入的学习了git，解决了疑惑，可能会过来详细写写原因。</p>
+<p>本文于2020/12/14 迁移自我的csdn</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gridea使用Gittalk]]></title>
         <id>https://mikyan.github.io/post/gridea-shi-yong-gittalk/</id>
