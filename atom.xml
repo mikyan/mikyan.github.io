@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mikyan.github.io</id>
     <title>MIKYAN的博客</title>
-    <updated>2020-12-17T14:26:22.787Z</updated>
+    <updated>2020-12-17T14:26:47.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mikyan.github.io"/>
     <link rel="self" href="https://mikyan.github.io/atom.xml"/>
@@ -10,27 +10,6 @@
     <logo>https://mikyan.github.io/images/avatar.png</logo>
     <icon>https://mikyan.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, MIKYAN的博客</rights>
-    <entry>
-        <title type="html"><![CDATA[默写]]></title>
-        <id>https://mikyan.github.io/post/mo-xie/</id>
-        <link href="https://mikyan.github.io/post/mo-xie/">
-        </link>
-        <updated>2020-12-17T11:31:30.000Z</updated>
-        <content type="html"><![CDATA[<p>实践决定认识，实践是认识的来源。<br>
-实践是认识的目的和认识发展的东西<br>
-实践是检验认识真理性的唯一标准，<br>
-对于新冠病毒的认识来源于抗疫斗争的实践，随着抗疫斗争的不断发展，对新冠的认识也不断的发展，认识在指导抗议斗争的实践时，也有受到实践的检验</p>
-<p>从实践到认识，再从认识到实践，实践，认识，再实践，再认识，认识过程不断反复和无限发展，这个过程，既是认识在实践指导下不断向科学性发展的过程，也是实践在认识的指导下不断向合理性方向迈进的过程。</p>
-<p>矛盾的普遍性是指，矛盾存在于一切事物中，存在于一切事物发展过程的始终，即所谓矛盾无处不在，无时不有</p>
-<p>在社会发展的过程中，人民群众起着绝对性的力量，人民群众是社会历史实践的主体，是历史的创造者</p>
-<p>人民群众是社会物质财富的创造者</p>
-<p>人民群众是社会精神财富的创造者</p>
-<p>人民群众是社会变革的决定力量</p>
-<p>唯物史观要求我们坚持马克思主义的群众观点，建设党的群众路线</p>
-<p>只有紧密联系和发动群众，我们才能打赢这场疫情防卫的保卫战。</p>
-<p>当今世界面临的人口，资源，环境问题，不仅是自然内部的关系问题，也是人与自然的关系严重失衡。马克思认为，要合理的调节人与自然间的物质变换，在最无愧于最适合人类的方式进行这种物质变换。要尊重自然，顺应自然，保护自然。只有尊重自然规律，人来才能避免在开发利用自然资源上走上弯路，人类对自然的伤害最终会危及自身。</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[git仓库迁移后不显示部分contributor解决办法]]></title>
         <id>https://mikyan.github.io/post/git-cang-ku-qian-yi-hou-bu-xian-shi-bu-fen-contributor-jie-jue-ban-fa/</id>
