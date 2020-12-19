@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mikyan.github.io</id>
     <title>MIKYAN的博客</title>
-    <updated>2020-12-19T07:47:47.490Z</updated>
+    <updated>2020-12-19T07:48:23.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mikyan.github.io"/>
     <link rel="self" href="https://mikyan.github.io/atom.xml"/>
@@ -10,6 +10,55 @@
     <logo>https://mikyan.github.io/images/avatar.png</logo>
     <icon>https://mikyan.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, MIKYAN的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[肖四选择题错题整理]]></title>
+        <id>https://mikyan.github.io/post/xiao-si-xuan-ze-ti-cuo-ti-zheng-li/</id>
+        <link href="https://mikyan.github.io/post/xiao-si-xuan-ze-ti-cuo-ti-zheng-li/">
+        </link>
+        <updated>2020-12-19T07:23:33.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="垄断资本主义相关">垄断资本主义相关</h2>
+<p>帝国主义的实质：垄断资本凭借垄断地位获取高额垄断利润</p>
+<h2 id="海南自贸港">海南自贸港</h2>
+<p>把<strong>制度继承创新</strong>摆在<strong>突出位置</strong>，解放思想，大胆创新，成熟一项推出一项，行稳致远，久久为功</p>
+<h2 id="全面依法治国">全面依法治国</h2>
+<h3 id="推进全面依法治国的着力点">推进全面依法治国的着力点</h3>
+<p>解决法治领域的突出问题</p>
+<h3 id="全面依法治国的目标">全面依法治国的目标</h3>
+<p>建设中国特色社会主义法治体系，建设社会主义法治国家</p>
+<h2 id="瓦窑堡会议">瓦窑堡会议</h2>
+<h3 id="新政策">新政策</h3>
+<p>提出了在抗日的条件下与民族资产阶级重新统一战线的新政策</p>
+<h3 id="批评错误">批评错误</h3>
+<p>批评了党内长期存在的“左”倾冒险主义，关门主义错误倾向</p>
+<h3 id="政治路线">政治路线</h3>
+<p>解决了党的政治路线的问题</p>
+<h2 id="十四五">十四五</h2>
+<h3 id="十四五时期经济社会发展的主题">十四五时期经济社会发展的主题</h3>
+<p>推动高质量发展</p>
+<h3 id="主线">主线</h3>
+<p>供给侧结构性改革</p>
+<h3 id="根本动力">根本动力</h3>
+<p>改革创新，毛中特考动力，一般选改革创新</p>
+<h2 id="财富的源泉">财富的源泉</h2>
+<p>劳动是源泉之一，但不是唯一的源泉，还有劳动对象和劳动资料，如土地</p>
+<h2 id="实现中华民族伟大复兴">实现中华民族伟大复兴</h2>
+<h3 id="关键一步">关键一步</h3>
+<p>全面建成小康社会，关键一步是说走到了哪一步</p>
+<h3 id="必由之路">必由之路</h3>
+<p>改革开放，必有之路谈的是方法，是路径</p>
+<h2 id="大革命中中国共产党的作用">大革命中中国共产党的作用</h2>
+<h3 id="口号提出者">口号提出者</h3>
+<p>第一，大革命是在<strong>反对帝国主义、反对军阀</strong>的政治口号下进行的。而<strong>提出这个口号的，正是中国共产党</strong>。</p>
+<h3 id="合作倡导者与统一战线的组织者">合作倡导者与统一战线的组织者</h3>
+<p>第二，大革命是在以国共合作为基础的统一战线的组织形式下进行的。而中国共产党正是<strong>国共合作的倡导者和统一战线的组织者</strong>。</p>
+<h3 id="人民群众的发动者和组织者">人民群众的发动者和组织者</h3>
+<p>第三，大革命是近代中国历史上空前广泛而深刻的群众运动。而中国共产党正是<strong>人民群众的主要发动者和组织者。</strong></p>
+<h3 id="国民革命军">国民革命军</h3>
+<p>第四，大革命的主要斗争形式是革命战争。中国共产党人不仅帮助和推动了<strong>国民革命军</strong>的建立，而且在军队中进行了卓有成效的政治工作，共产党员在战斗中更是身先士卒，起着先锋作用和表率作用。<br>
+注意第四点，是将原来<strong>秋收起义中的工农革命军</strong>，改组为了国民革命军</p>
+<h2 id=""></h2>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[git仓库迁移后不显示部分contributor解决办法]]></title>
         <id>https://mikyan.github.io/post/git-cang-ku-qian-yi-hou-bu-xian-shi-bu-fen-contributor-jie-jue-ban-fa/</id>
